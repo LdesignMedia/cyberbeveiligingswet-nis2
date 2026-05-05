@@ -63,6 +63,7 @@ Expected NL entry into force: ~Q2 2026 (~July 1).
 | **Practitioner building a compliance program** | [`templates/`](./templates/) — CSV/XLSX for asset inventory, incident register, risk register, NIS2 measures tracker, sub-processor register, access review |
 | **Trainer / educator** | [`NIS2-light-micro-LMS.md`](./NIS2-light-micro-LMS.md) — light micro-LMS outline |
 | **Anyone hitting an unfamiliar term** | [`GLOSSARY.md`](./GLOSSARY.md) — NL/EN definitions for NIS2, Cbw, Wwke, CER, DORA, eIDAS jargon |
+| **Anyone tracking dates / deadlines** | [`TIMELINE.md`](./TIMELINE.md) — EU + NL milestones from NIS1 (2016) through Cbw entry into force |
 
 ## Reading order (LLM context priority)
 
