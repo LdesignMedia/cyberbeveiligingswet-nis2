@@ -9,8 +9,9 @@ NIS2 / Cbw applies across ~18 sectors but the operational reality differs sharpl
 | [`SECTOR-energy.md`](./SECTOR-energy.md) | Essential | ACM + RDI | Network Code 2024/1366, IEC 62443, Wwke |
 | [`SECTOR-manufacturing.md`](./SECTOR-manufacturing.md) | Important | RDI (TBC per AMvB) | CRA, MDR/IVDR, R155/R156 |
 | [`SECTOR-public-administration.md`](./SECTOR-public-administration.md) | Essential | BZK + IBD + NCSC-NL | BIO, AVG, Woo, Wdo, eIDAS |
+| [`SECTOR-transport.md`](./SECTOR-transport.md) | Essential | ILT (per mode) + Rijkswaterstaat | CER/Wwke, EASA Part-IS, TSI CCS/ERTMS, ISPS, IMO, R155/R156, IEC 62443 |
 
-Other NIS2 sectors (transport, banking, drinking water, wastewater, postal/courier, waste, chemicals, food, research, ICT B2B service management, space) are not yet covered. Contributions welcome — see [`../CONTRIBUTING.md`](../CONTRIBUTING.md).
+Other NIS2 sectors (banking, drinking water, wastewater, postal/courier, waste, chemicals, food, research, ICT B2B service management, space) are not yet covered. Contributions welcome — see [`../CONTRIBUTING.md`](../CONTRIBUTING.md).
 
 ## Reading order
 
