@@ -1,0 +1,6 @@
+ID,Leverancier,Dienst,Categorie,Data verwerkt,Persoonsgegevens,Locatie verwerking,Sub-verwerker?,DPA getekend,Security cert (ISO/SOC2),Audit-rapport ontvangen,Contract einde,Eigenaar intern,Risicoscore (1-5),Datum onboarded,Laatste review,Status,Notities
+V-001,AWS,Cloud hosting,IaaS,Klantdata + logs,Ja,EU (Frankfurt/Ireland),Ja,Ja,ISO27001+SOC2,2025-Q4,Doorlopend,CTO,2,2024-01-01,2026-04-26,Actief,DPA via AWS terms
+V-002,GitHub,Source + CI,SaaS,Code,Beperkt,US (EU subprocessors),Ja,Ja,SOC2,2025,Doorlopend,CTO,3,2023-01-01,2026-04-26,Actief,Microsoft owned
+V-003,Google Workspace,E-mail/docs,SaaS,Communicatie,Ja,EU,Ja,Ja,ISO27001+SOC2,2025,Doorlopend,CEO,2,2022-01-01,2026-04-26,Actief,
+V-004,Sentry,Error monitoring,SaaS,Stack traces (kan PII bevatten),Ja,EU,Ja,Ja,SOC2,2024,2026-12,Lead dev,3,2024-06-01,2026-04-26,Actief,Scrub PII filter aan
+V-005,Stripe,Betalingen,SaaS,Betaal-tokens,Ja,EU/US,Ja,Ja,PCI-DSS L1,2025,Doorlopend,CEO,2,2023-01-01,2026-04-26,Actief,

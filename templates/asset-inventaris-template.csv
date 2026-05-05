@@ -1,0 +1,9 @@
+ID,Asset-naam,Type,Categorie,Eigenaar,Locatie/host,Data-classificatie,Criticaliteit (1-5),Bevat persoonsgegevens,Encryptie at-rest,Encryptie in-transit,Toegangscontrole,Backup,Sub-verwerker (extern),Datum toegevoegd,Laatste review,Notities
+A-001,Productie LMS-applicatie,Applicatie,Software,CTO,AWS eu-west-1,Vertrouwelijk,5,Ja,AES-256,TLS1.3,SSO+MFA,Dagelijks S3,-,2026-04-26,2026-04-26,
+A-002,Productie database,Database,Data,CTO,AWS RDS eu-west-1,Vertrouwelijk,5,Ja,KMS,TLS1.3,Bastion+MFA,RDS snapshot 7d,-,2026-04-26,2026-04-26,Klant LMS-data
+A-003,Source code repository,Code,Software,Lead dev,GitHub,Intern,4,Nee,GitHub,TLS1.3,SSO+MFA,Auto,GitHub Inc.,2026-04-26,2026-04-26,
+A-004,CI/CD pipeline,Tooling,Build,Lead dev,GitHub Actions,Intern,4,Nee,-,TLS1.3,SSO+MFA,-,GitHub Inc.,2026-04-26,2026-04-26,
+A-005,E-mail (Workspace),Communicatie,SaaS,CEO,Google EU,Intern,3,Ja,Google,TLS1.3,SSO+MFA+2SV,Google,Google LLC,2026-04-26,2026-04-26,
+A-006,Laptops medewerkers,Endpoint,Hardware,CTO,Mobiel,Intern,3,Ja,FileVault,-,Lokaal+SSO,-,-,2026-04-26,2026-04-26,5x MacBook
+A-007,Domeinnaam + DNS,Infra,Domain,CEO,Registrar X,Publiek,4,Nee,-,DNSSEC,Registrar MFA,-,Registrar X,2026-04-26,2026-04-26,
+A-008,Klantondersteuning ticketing,SaaS,Support,Support,EU,Intern,3,Ja,Provider,TLS1.3,SSO+MFA,Provider,Helpdesk Co,2026-04-26,2026-04-26,

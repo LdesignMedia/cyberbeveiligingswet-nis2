@@ -1,0 +1,4 @@
+Reviewdatum,Account/User,E-mail,Rol,Systeem,Toegangsniveau,MFA actief,Laatste login,In dienst,Justificatie,Actie nodig,Action item,Deadline,Reviewed by,Status
+2026-04-26,luuk@ldesignmedia.nl,luuk@ldesignmedia.nl,CEO,AWS productie,AdministratorAccess,Ja,2026-04-25,Ja,Eigenaar,Nee,,,CTO,OK
+2026-04-26,dev1@ldesignmedia.nl,dev1@ldesignmedia.nl,Developer,GitHub,Maintainer,Ja,2026-04-25,Ja,Daily dev,Nee,,,Lead dev,OK
+2026-04-26,oud-medewerker@x,oud-medewerker@x,Ex-developer,GitHub,Read,Nee,2025-11-01,Nee,-,Ja,Account verwijderen,2026-04-30,Lead dev,Open

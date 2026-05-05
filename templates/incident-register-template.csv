@@ -1,0 +1,2 @@
+ID,Datum gedetecteerd,Tijd detectie,Datum opgetreden,Bron melding,Type,Severity (1-4),Korte omschrijving,Geraakte assets,Geraakte klanten,Persoonsgegevens betrokken,Klant gemeld (datum),NCSC/AP gemeld,Root cause,Containment-acties,Resolutie-acties,Resolved datum,Lessons learned,Status,Eigenaar
+I-001,,,,,,,,,,,,,,,,,,Open,CTO
