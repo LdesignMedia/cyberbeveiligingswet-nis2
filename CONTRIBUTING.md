@@ -33,7 +33,16 @@ No CLA. No DCO sign-off required. By submitting a contribution you agree it is l
 
 5. **Update INDEX.md** under the appropriate section, with a one-line description and stable relative path.
 
-6. **Update INVENTORY.md** with the source archive metadata (filename, source URL or document number).
+6. **Update INVENTORY.md** with a row in the appropriate section. All inventory tables use the same six-column schema:
+
+   | File | Source URL | Publisher | Retrieved | Lang | Description |
+
+   - **File**: filename relative to the section folder (e.g. `cbw-2025D45516.pdf`).
+   - **Source URL**: canonical retrieval URL of the original document. For derived `md/` files, write `derived from <original-filename>`.
+   - **Publisher**: issuing body (EUR-Lex, Tweede Kamer, internetconsultatie.nl, NCSC-NL, Digital Trust Center, ENISA, European Commission, etc.).
+   - **Retrieved**: ISO date `YYYY-MM-DD` you fetched the file.
+   - **Lang**: `NL`, `EN`, or `multi`.
+   - **Description**: one-sentence description.
 
 7. **Commit** with a `docs:` or `chore:` prefix per Conventional Commits.
 
