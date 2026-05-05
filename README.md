@@ -62,6 +62,7 @@ Expected NL entry into force: ~Q2 2026 (~July 1).
 | **LLM pipeline / RAG ingestion** | Feed all `**/md/*.md` plus root `*.md`. Use [`INDEX.md`](./INDEX.md) for curated reading order, [`INVENTORY.md`](./INVENTORY.md) for the raw archive listing. |
 | **Practitioner building a compliance program** | [`templates/`](./templates/) — CSV/XLSX for asset inventory, incident register, risk register, NIS2 measures tracker, sub-processor register, access review |
 | **Trainer / educator** | [`NIS2-light-micro-LMS.md`](./NIS2-light-micro-LMS.md) — light micro-LMS outline |
+| **Anyone hitting an unfamiliar term** | [`GLOSSARY.md`](./GLOSSARY.md) — NL/EN definitions for NIS2, Cbw, Wwke, CER, DORA, eIDAS jargon |
 
 ## Reading order (LLM context priority)
 
