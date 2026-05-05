@@ -21,14 +21,15 @@ Curated corpus on EU NIS2 Directive + Dutch implementation (Cyberbeveiligingswet
 
 - **Best NL:** [`nis2-directive-nl.md`](./nis2-directive-nl.md) (cleaned HTML conversion, 1802 lines)
 - **NL alt (PDF-derived):** `eu-directives/md/nis2-2022-2555-NL.md`
-- **EN (HTML):** `eu-directives/md/nis2-2022-2555-EN.md`
-- **EN (PDF):** `eu-directives/md/nis2-2022-2555-EN.md` (PDF version overwritten by HTML — see PDFs in `eu-directives/`)
+- **EN (HTML):** `eu-directives/md/nis2-2022-2555-EN-html.md` (canonical EN render)
+- **EN (PDF):** `eu-directives/md/nis2-2022-2555-EN-pdf.md` (PDF-derived alt)
 - Originals: `eu-directives/nis2-2022-2555-{NL,EN}.{pdf,html}`
 
 ### CER Directive (EU) 2022/2557
 Sister directive. Resilience of critical entities (physical + organisational). NL transposition: Wet weerbaarheid kritieke entiteiten (Wwke).
 
-- **NL:** `eu-directives/md/cer-2022-2557-NL.md`
+- **NL (HTML):** `eu-directives/md/cer-2022-2557-NL-html.md` (canonical NL render)
+- **NL (PDF):** `eu-directives/md/cer-2022-2557-NL-pdf.md` (PDF-derived alt)
 - **EN:** `eu-directives/md/cer-2022-2557-EN.md`
 - Originals: `eu-directives/cer-2022-2557-{NL,EN}.{pdf,html}`
 
@@ -37,8 +38,10 @@ Sister directive. Resilience of critical entities (physical + organisational). N
 ### CIR (EU) 2024/2690 — Technical & methodological cybersecurity requirements
 17 October 2024. Binding for: DNS providers, TLD registries, cloud, datacenter, CDN, MSP, MSSP, online marketplaces, search engines, social networks, trust services. 13 thematic areas covering governance, operational, technical measures.
 
-- **NL:** `eu-implementing-regulation/md/cir-2024-2690-NL.md`
-- **EN:** `eu-implementing-regulation/md/cir-2024-2690-EN.md`
+- **NL (HTML):** `eu-implementing-regulation/md/cir-2024-2690-NL-html.md` (canonical)
+- **NL (PDF):** `eu-implementing-regulation/md/cir-2024-2690-NL-pdf.md`
+- **EN (HTML):** `eu-implementing-regulation/md/cir-2024-2690-EN-html.md` (canonical)
+- **EN (PDF):** `eu-implementing-regulation/md/cir-2024-2690-EN-pdf.md`
 - Originals: `eu-implementing-regulation/cir-2024-2690-{NL,EN}.{pdf,html}`
 
 ## 3. ENISA Guidance (non-binding, June 2025)

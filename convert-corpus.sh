@@ -69,13 +69,23 @@ for dir in eu-directives eu-implementing-regulation enisa-guidance nl-wetsvoorst
   echo "=== $dir ==="
   for f in "$dir"/*.pdf; do
     [ -f "$f" ] || continue
-    out="$dir/md/$(basename "$f" .pdf).md"
+    base="$(basename "$f" .pdf)"
+    if [ -f "$dir/$base.html" ]; then
+      out="$dir/md/$base-pdf.md"
+    else
+      out="$dir/md/$base.md"
+    fi
     echo "  pdf -> $(basename "$out")"
     convert_pdf "$f" "$out"
   done
   for f in "$dir"/*.html; do
     [ -f "$f" ] || continue
-    out="$dir/md/$(basename "$f" .html).md"
+    base="$(basename "$f" .html)"
+    if [ -f "$dir/$base.pdf" ]; then
+      out="$dir/md/$base-html.md"
+    else
+      out="$dir/md/$base.md"
+    fi
     echo "  html -> $(basename "$out")"
     convert_html "$f" "$out"
   done
