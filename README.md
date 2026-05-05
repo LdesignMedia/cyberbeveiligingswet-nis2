@@ -7,6 +7,51 @@ Curated corpus on the EU NIS2 Directive and the Dutch implementation (Cyberbevei
 
 ---
 
+## About NIS2 in 60 seconds
+
+**NIS2 Directive (EU) 2022/2555** is the EU's second-generation cybersecurity baseline, in force since 16 January 2023 with a transposition deadline of 17 October 2024. It replaces the 2016 NIS1 Directive (2016/1148) and dramatically expands scope, sharpens enforcement, and codifies management-board accountability.
+
+### What changed vs NIS1
+
+- **Bigger perimeter.** NIS2 covers ~18 sectors (vs 7 in NIS1). All medium and large entities operating in those sectors are in-scope by default — no national designation lottery.
+- **Two tiers.**
+  - **Essential entities** (energy, transport, banking, drinking water, healthcare, digital infrastructure core, public administration, space). Proactive supervision, full audit rights, fines up to **€10M or 2% global turnover**.
+  - **Important entities** (postal/courier, waste, chemicals, food, manufacturing, digital providers like online marketplaces/search engines/social networks, research). Reactive supervision, fines up to **€7M or 1.4% global turnover**.
+- **Management-body liability.** Boards must approve cyber risk-management measures, oversee implementation, and complete training (NIS2 art. 20). Personal liability is on the table.
+- **Sharper incident reporting timeline** (art. 23): early warning ≤ 24 h, incident notification ≤ 72 h, final report ≤ 1 month.
+
+### The four obligation pillars
+
+1. **Risk-management measures** (art. 21) — 10 mandatory areas including risk policies, incident handling, BCP/DR, supply-chain security, vulnerability handling, secure development, MFA/identity, encryption, access control, asset management.
+2. **Incident reporting** (art. 23) — phased reports to the CSIRT/competent authority for any "significant incident."
+3. **Governance** (art. 20) — board approval, oversight, and training duty.
+4. **Registration** — entities self-register with the competent authority; jurisdiction follows main establishment for cross-border digital providers.
+
+### Binding technical requirements (CIR 2024/2690)
+
+Commission Implementing Regulation **(EU) 2024/2690**, in force 17 October 2024, makes art. 21 risk-management measures **legally binding and uniform** for digital infrastructure providers (DNS, TLD, cloud, datacenter, CDN, MSP, MSSP, online marketplaces, search engines, social networks, trust services). 13 thematic areas, ~70 mandatory measures, evidence-based. ENISA's Technical Implementation Guidance (June 2025, 170 pp) is the de-facto reference for *how* to satisfy each measure.
+
+### Dutch transposition stack
+
+| Layer | Instrument | Role |
+|-------|------------|------|
+| Primary law | **Cyberbeveiligingswet (Cbw)** — wetsvoorstel 36764 | Transposes NIS2 into NL law. Tweede Kamer adopted 2026-04-15. |
+| Primary law (sister) | **Wet weerbaarheid kritieke entiteiten (Wwke)** — wetsvoorstel 36765 | Transposes the CER Directive (2022/2557) covering physical/organisational resilience of critical entities. |
+| Secondary law | **Cyberbeveiligingsbesluit (AMvB)** | Lower regulation under Cbw — duty of care detail, registration, board training. Internetconsultatie 20 Feb – 30 March 2025. |
+| Secondary law (sister) | **Besluit Wwke** | Lower regulation under Wwke. |
+| Operational guidance | **NCSC.nl** (registration flowchart, FAQ) + **Digital Trust Center** | Entity-facing how-to. |
+
+Expected NL entry into force: ~Q2 2026 (~July 1).
+
+### Adjacent regimes (out of scope for this corpus)
+
+- **CER Directive (EU) 2022/2557** (sister): physical/organisational resilience of critical entities. Included here as context; primary content lives in NIS2 corpus only.
+- **DORA (EU) 2022/2554**: financial-sector cyber rules, supersedes NIS2 art. 21/23 for financial entities (lex specialis).
+- **GDPR**: data-protection regime; overlaps on incident reporting for breaches involving personal data.
+- **eIDAS**: trust services; CIR 2024/2690 art. 21 applies to qualified trust service providers.
+
+---
+
 ## Who this is for
 
 | Audience | Start here |
