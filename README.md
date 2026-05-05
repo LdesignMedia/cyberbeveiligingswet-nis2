@@ -61,6 +61,7 @@ Expected NL entry into force: ~Q2 2026 (~July 1).
 | **CISO running gap analysis / audit prep** | [`CHECKLIST-CISO.md`](./CHECKLIST-CISO.md) — 100+ evidence items mapped to art. 20–23 + 27 and CIR 2024/2690 |
 | **Lawyer / policy analyst** | [`nis2-directive-nl.md`](./nis2-directive-nl.md) → [`nl-wetsvoorstel/md/cbw-2025D26060.md`](./nl-wetsvoorstel/md/cbw-2025D26060.md) → [`nl-amvb-consultatie/md/ontwerp-cyberbeveiligingsbesluit.md`](./nl-amvb-consultatie/md/ontwerp-cyberbeveiligingsbesluit.md) |
 | **LLM pipeline / RAG ingestion** | Feed all `**/md/*.md` plus root `*.md`. Use [`INDEX.md`](./INDEX.md) for curated reading order, [`INVENTORY.md`](./INVENTORY.md) for the raw archive listing. |
+| **SME owner / director** asking "is this even my problem?" | [`QUICKSTART-SME.md`](./QUICKSTART-SME.md) — 10-minute scope check + 90-day starter path |
 | **Practitioner building a compliance program** | [`templates/`](./templates/) — CSV/XLSX for asset inventory, incident register, risk register, NIS2 measures tracker, sub-processor register, access review |
 | **Trainer / educator** | [`NIS2-light-micro-LMS.md`](./NIS2-light-micro-LMS.md) — light micro-LMS outline |
 | **Anyone hitting an unfamiliar term** | [`GLOSSARY.md`](./GLOSSARY.md) — NL/EN definitions for NIS2, Cbw, Wwke, CER, DORA, eIDAS jargon |
