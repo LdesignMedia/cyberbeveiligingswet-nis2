@@ -19,9 +19,9 @@ Standalone NL government brochures and decision aids (not Tweede Kamer kamerstuk
 
 | File | Source URL | Publisher | Retrieved | Lang | Description |
 |------|------------|-----------|-----------|------|-------------|
-| `doorverwijsboom-cyberbeveiligingswet.pdf` | https://www.rijksoverheid.nl/onderwerpen/cybersecurity/cyberbeveiligingswet | Ministerie van Justitie en Veiligheid | 2026-04-26 | NL | NL government decision tree — does Cbw apply? |
-| `flyer-cyberbeveiligingswet.pdf` | https://www.rijksoverheid.nl/onderwerpen/cybersecurity/cyberbeveiligingswet | Ministerie van Justitie en Veiligheid | 2026-04-26 | NL | NL government flyer Cbw |
-| `informatiebrochure-cyberbeveiligingswet.pdf` | https://www.rijksoverheid.nl/onderwerpen/cybersecurity/cyberbeveiligingswet | Ministerie van Justitie en Veiligheid | 2026-04-26 | NL | NL government info brochure Cbw |
+| `doorverwijsboom-cyberbeveiligingswet.pdf` | https://www.ncsc.nl/api/media/sites/default/files/Doorverwijsboom%20Cyberbeveiligingswet.pdf | NCSC-NL | 2026-04-26 | NL | NL government decision tree — does Cbw apply? Landing: https://www.ncsc.nl/cyberbeveiligingswet-nis2/doorverwijsboom-cbw-organisaties |
+| `flyer-cyberbeveiligingswet.pdf` | https://www.ncsc.nl/api/media/sites/default/files/Flyer%20Cyberbeveiligingswet.pdf | NCSC-NL | 2026-04-26 | NL | NL government flyer Cbw. Landing: https://www.ncsc.nl/cyberbeveiligingswet-nis2/over-de-cbw |
+| `informatiebrochure-cyberbeveiligingswet.pdf` | https://www.ncsc.nl/api/media/sites/default/files/Informatiebrochure%20Cyberbeveiligingswet.pdf | NCSC-NL | 2026-04-26 | NL | NL government info brochure Cbw. Landing: https://www.ncsc.nl/documenten/brochures/2025/06/17/infobrochure-cbw |
 
 ## eu-directives/
 
@@ -51,9 +51,9 @@ Commission Implementing Regulation (EU) 2024/2690 — technical/methodological c
 
 | File | Source URL | Publisher | Retrieved | Lang | Description |
 |------|------------|-----------|-----------|------|-------------|
-| `ENISA_Technical_Implementation_Guidance_v1.0.pdf` | https://www.enisa.europa.eu/publications/technical-implementation-guidance-on-cybersecurity-risk-management-measures | ENISA | 2026-04-26 | EN | Technical Implementation Guidance on Cybersecurity Risk Management Measures (June 2025, 170 pp). Maps CIR 2024/2690 to practical measures + evidence. Non-binding. |
-| `ENISA_NIS2_Roles_Skills_ECSF_Mapping.pdf` | https://www.enisa.europa.eu/publications/cybersecurity-roles-and-skills-for-nis2-essential-and-important-entities | ENISA | 2026-04-26 | EN | Cybersecurity Roles and Skills for NIS2 Essential and Important Entities. Maps NIS2 art. 21 + 23 to ECSF role profiles (June 2025, 32 pp). |
-| `ENISA_Handbook_Cyber_Stress_Tests_v2.0.pdf` | https://www.enisa.europa.eu/publications/handbook-for-cyber-stress-tests | ENISA | 2026-04-26 | EN | Handbook for Cyber Stress Tests v2.0 (May 2025, 27 pp). Methodology for sectoral / EU-level stress tests under NIS2. |
+| `ENISA_Technical_Implementation_Guidance_v1.0.pdf` | https://www.enisa.europa.eu/sites/default/files/2025-06/ENISA_Technical_implementation_guidance_on_cybersecurity_risk_management_measures_version_1.0.pdf | ENISA | 2026-04-26 | EN | Technical Implementation Guidance on Cybersecurity Risk Management Measures (June 2025, 170 pp). Maps CIR 2024/2690 to practical measures + evidence. Non-binding. |
+| `ENISA_NIS2_Roles_Skills_ECSF_Mapping.pdf` | https://www.enisa.europa.eu/sites/default/files/2025-06/Mapping%20NIS%202%20obligations%20with%20ECSF%20role%20profiles.pdf | ENISA | 2026-04-26 | EN | Cybersecurity Roles and Skills for NIS2 Essential and Important Entities. Maps NIS2 art. 21 + 23 to ECSF role profiles (June 2025, 32 pp). Landing: https://www.enisa.europa.eu/publications/cybersecurity-roles-and-skills-for-nis2-essential-and-important-entities |
+| `ENISA_Handbook_Cyber_Stress_Tests_v2.0.pdf` | https://www.enisa.europa.eu/sites/default/files/2025-05/2025.04311_01_ms_v2.0_Handbook%20for%20Cyber%20Stress%20Tests_en.pdf | ENISA | 2026-04-26 | EN | Handbook for Cyber Stress Tests v2.0 (May 2025, 27 pp). Methodology for sectoral / EU-level stress tests under NIS2. Landing: https://www.enisa.europa.eu/publications/handbook-for-cyber-stress-tests |
 
 ## nl-wetsvoorstel/
 
@@ -61,12 +61,12 @@ Dutch implementation law — Cyberbeveiligingswet (Cbw) wetsvoorstel 36764 + Wet
 
 | File | Source URL | Publisher | Retrieved | Lang | Description |
 |------|------------|-----------|-----------|------|-------------|
-| `cbw-wetsvoorstel-detail.html` | https://www.tweedekamer.nl/kamerstukken/wetsvoorstellen/detail?id=2025Z11538&dossier=36764 | Tweede Kamer der Staten-Generaal | 2026-04-26 | NL | Wetsvoorstel 36764 (Cbw) detail page |
-| `wwke-wetsvoorstel-detail.html` | https://www.tweedekamer.nl/kamerstukken/wetsvoorstellen/detail?id=2025Z11541&dossier=36765 | Tweede Kamer der Staten-Generaal | 2026-04-26 | NL | Wetsvoorstel 36765 (Wwke) detail page |
-| `cbw-2025D26060.pdf` | https://www.tweedekamer.nl/kamerstukken/detail?id=2025D26060 | Tweede Kamer der Staten-Generaal | 2026-04-26 | NL | TK kamerstuk 36764 — wetsvoorstel + memorie van toelichting |
-| `cbw-2025D26103.pdf` | https://www.tweedekamer.nl/kamerstukken/detail?id=2025D26103 | Tweede Kamer der Staten-Generaal | 2026-04-26 | NL | TK kamerstuk — Cbw + Wwke gerelateerd |
-| `cbw-2025D45516.pdf` | https://www.tweedekamer.nl/kamerstukken/detail?id=2025D45516 | Tweede Kamer der Staten-Generaal | 2026-04-26 | NL | TK kamerstuk — nota van wijziging / latere fase |
-| `cbw-2025D45518.pdf` | https://www.tweedekamer.nl/kamerstukken/detail?id=2025D45518 | Tweede Kamer der Staten-Generaal | 2026-04-26 | NL | TK kamerstuk — minister J&V brief |
+| `cbw-wetsvoorstel-detail.html` | https://www.tweedekamer.nl/kamerstukken/wetsvoorstellen/detail?cfg=wetsvoorsteldetails&qry=wetsvoorstel%3A36764 | Tweede Kamer der Staten-Generaal | 2026-04-26 | NL | Wetsvoorstel 36764 (Cbw) detail page |
+| `wwke-wetsvoorstel-detail.html` | https://www.tweedekamer.nl/kamerstukken/wetsvoorstellen/detail?cfg=wetsvoorsteldetails&qry=wetsvoorstel%3A36765 | Tweede Kamer der Staten-Generaal | 2026-04-26 | NL | Wetsvoorstel 36765 (Wwke) detail page |
+| `cbw-2025D26060.pdf` | https://www.tweedekamer.nl/kamerstukken/detail?id=2025D26060&did=2025D26060 | Tweede Kamer der Staten-Generaal | 2026-04-26 | NL | TK kamerstuk 36764 — wetsvoorstel + memorie van toelichting |
+| `cbw-2025D26103.pdf` | https://www.tweedekamer.nl/kamerstukken/detail?id=2025D26103&did=2025D26103 | Tweede Kamer der Staten-Generaal | 2026-04-26 | NL | TK kamerstuk — Cbw + Wwke gerelateerd |
+| `cbw-2025D45516.pdf` | https://www.tweedekamer.nl/kamerstukken/detail?id=2025D45516&did=2025D45516 | Tweede Kamer der Staten-Generaal | 2026-04-26 | NL | TK kamerstuk — nota van wijziging / latere fase |
+| `cbw-2025D45518.pdf` | https://www.tweedekamer.nl/kamerstukken/detail?id=2025D45518&did=2025D45518 | Tweede Kamer der Staten-Generaal | 2026-04-26 | NL | TK kamerstuk — minister J&V brief |
 
 ## nl-amvb-consultatie/
 
@@ -74,10 +74,10 @@ Internetconsultatie Cyberbeveiligingsbesluit (AMvB onder Cbw, consultation 20 Fe
 
 | File | Source URL | Publisher | Retrieved | Lang | Description |
 |------|------------|-----------|-----------|------|-------------|
-| `ontwerp-cyberbeveiligingsbesluit.pdf` | https://www.internetconsultatie.nl/cyberbeveiligingsbesluit | Ministerie van Justitie en Veiligheid (via internetconsultatie.nl) | 2026-04-26 | NL | Draft AMvB text (10 pp) |
-| `nota-van-toelichting-cbb.pdf` | https://www.internetconsultatie.nl/cyberbeveiligingsbesluit | Ministerie van Justitie en Veiligheid (via internetconsultatie.nl) | 2026-04-26 | NL | Explanatory memorandum (21 pp) |
-| `ministeriele-regeling-cbb.pdf` | https://www.internetconsultatie.nl/cyberbeveiligingsbesluit | Ministerie van Justitie en Veiligheid (via internetconsultatie.nl) | 2026-04-26 | NL | Draft ministerial regulation (15 pp) |
-| `beleidskompas-cbb.pdf` | https://www.internetconsultatie.nl/cyberbeveiligingsbesluit | Ministerie van Justitie en Veiligheid (via internetconsultatie.nl) | 2026-04-26 | NL | Policy compass (5 pp) |
+| `ontwerp-cyberbeveiligingsbesluit.pdf` | https://www.internetconsultatie.nl/cyberbeveiligingsbesluit/document/13706 | Ministerie van Justitie en Veiligheid (via internetconsultatie.nl) | 2026-04-26 | NL | Draft AMvB text (10 pp) |
+| `nota-van-toelichting-cbb.pdf` | https://www.internetconsultatie.nl/cyberbeveiligingsbesluit/document/13707 | Ministerie van Justitie en Veiligheid (via internetconsultatie.nl) | 2026-04-26 | NL | Explanatory memorandum (21 pp) |
+| `ministeriele-regeling-cbb.pdf` | https://www.internetconsultatie.nl/cyberbeveiligingsbesluit/document/13709 | Ministerie van Justitie en Veiligheid (via internetconsultatie.nl) | 2026-04-26 | NL | Draft ministerial regulation (15 pp) |
+| `beleidskompas-cbb.pdf` | https://www.internetconsultatie.nl/cyberbeveiligingsbesluit/document/13708 | Ministerie van Justitie en Veiligheid (via internetconsultatie.nl) | 2026-04-26 | NL | Policy compass (5 pp) |
 | `consultatiepagina.html` | https://www.internetconsultatie.nl/cyberbeveiligingsbesluit | internetconsultatie.nl | 2026-04-26 | NL | Internetconsultatie landing page snapshot |
 
 ## nl-amvb-consultatie-wwke/
@@ -86,10 +86,10 @@ Internetconsultatie Besluit weerbaarheid kritieke entiteiten (AMvB onder Wwke, s
 
 | File | Source URL | Publisher | Retrieved | Lang | Description |
 |------|------------|-----------|-----------|------|-------------|
-| `ontwerpbesluit-wwke.pdf` | https://www.internetconsultatie.nl/besluitwwke | Ministerie van Justitie en Veiligheid (via internetconsultatie.nl) | 2026-04-26 | NL | Draft AMvB Wwke |
-| `nota-van-toelichting-wwke.pdf` | https://www.internetconsultatie.nl/besluitwwke | Ministerie van Justitie en Veiligheid (via internetconsultatie.nl) | 2026-04-26 | NL | Explanatory memorandum Wwke |
-| `beleidskompas-wwke.pdf` | https://www.internetconsultatie.nl/besluitwwke | Ministerie van Justitie en Veiligheid (via internetconsultatie.nl) | 2026-04-26 | NL | Policy compass Wwke |
-| `consultatiepagina-wwke.html` | https://www.internetconsultatie.nl/besluitwwke | internetconsultatie.nl | 2026-04-26 | NL | Internetconsultatie landing page snapshot |
+| `ontwerpbesluit-wwke.pdf` | https://www.internetconsultatie.nl/weerbaarheidkritiekeentiteiten/document/13703 | Ministerie van Justitie en Veiligheid (via internetconsultatie.nl) | 2026-04-26 | NL | Draft AMvB Wwke |
+| `nota-van-toelichting-wwke.pdf` | https://www.internetconsultatie.nl/weerbaarheidkritiekeentiteiten/document/13704 | Ministerie van Justitie en Veiligheid (via internetconsultatie.nl) | 2026-04-26 | NL | Explanatory memorandum Wwke |
+| `beleidskompas-wwke.pdf` | https://www.internetconsultatie.nl/weerbaarheidkritiekeentiteiten/document/13705 | Ministerie van Justitie en Veiligheid (via internetconsultatie.nl) | 2026-04-26 | NL | Policy compass Wwke |
+| `consultatiepagina-wwke.html` | https://www.internetconsultatie.nl/weerbaarheidkritiekeentiteiten | internetconsultatie.nl | 2026-04-26 | NL | Internetconsultatie landing page snapshot |
 
 ## ncsc-nl/
 
