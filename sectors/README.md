@@ -10,8 +10,13 @@ NIS2 / Cbw applies across ~18 sectors but the operational reality differs sharpl
 | [`SECTOR-manufacturing.md`](./SECTOR-manufacturing.md) | Important | RDI (TBC per AMvB) | CRA, MDR/IVDR, R155/R156 |
 | [`SECTOR-public-administration.md`](./SECTOR-public-administration.md) | Essential | BZK + IBD + NCSC-NL | BIO, AVG, Woo, Wdo, eIDAS |
 | [`SECTOR-transport.md`](./SECTOR-transport.md) | Essential | ILT (per mode) + Rijkswaterstaat | CER/Wwke, EASA Part-IS, TSI CCS/ERTMS, ISPS, IMO, R155/R156, IEC 62443 |
+| [`SECTOR-banking-financial.md`](./SECTOR-banking-financial.md) | Essential | DNB + AFM | **DORA (lex specialis)**, PSD2/PSD3, MiFID II, EBA ICT Guidelines, SWIFT CSP |
+| [`SECTOR-water.md`](./SECTOR-water.md) | Essential | ILT + ILT-watersectie | Drinkwaterwet, Waterwet, Wwke (CER) |
+| [`SECTOR-food.md`](./SECTOR-food.md) | Important | NVWA + LNV + RDI | HACCP, EU 178/2002, Warenwet/RASFF, GFSI (BRCGS/IFS/FSSC 22000) |
+| [`SECTOR-chemicals.md`](./SECTOR-chemicals.md) | Important | NVWA + ILT-chemie + Brzo+ | Seveso III/Brzo 2015, REACH, CLP, CSDDD, IEC 61511/62443 |
+| [`SECTOR-postal-courier.md`](./SECTOR-postal-courier.md) | Important | ACM + RDI | Postwet 2009, GDPR, EU Customs UCC, DAC7 |
 
-Other NIS2 sectors (banking, drinking water, wastewater, postal/courier, waste, chemicals, food, research, ICT B2B service management, space) are not yet covered. Contributions welcome — see [`../CONTRIBUTING.md`](../CONTRIBUTING.md).
+Other NIS2 sectors (wastewater detail, waste management, research, ICT B2B service management, space, public e-comms specifics) are not yet covered. Contributions welcome — see [`../CONTRIBUTING.md`](../CONTRIBUTING.md).
 
 ## Reading order
 
