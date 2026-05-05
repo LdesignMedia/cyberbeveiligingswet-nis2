@@ -11,7 +11,7 @@ Curated corpus on the EU NIS2 Directive and the Dutch implementation (Cyberbevei
 
 | Audience | Start here |
 |----------|-----------|
-| **Compliance officer / DPO** at a NL entity asking "does Cbw apply to us?" | [`md/Doorverwijsboom Cyberbeveiligingswet.md`](./md/Doorverwijsboom%20Cyberbeveiligingswet.md) → [`ncsc-nl/md/www.ncsc.nl_cyberbeveiligingswet-nis2_flowchart-registratieplicht-nis2-entiteit.md`](./ncsc-nl/md/www.ncsc.nl_cyberbeveiligingswet-nis2_flowchart-registratieplicht-nis2-entiteit.md) → Cbw scope (art. 2–5) |
+| **Compliance officer / DPO** at a NL entity asking "does Cbw apply to us?" | [`nl-overheid-publicaties/md/doorverwijsboom-cyberbeveiligingswet.md`](./nl-overheid-publicaties/md/doorverwijsboom-cyberbeveiligingswet.md) → [`ncsc-nl/md/www.ncsc.nl_cyberbeveiligingswet-nis2_flowchart-registratieplicht-nis2-entiteit.md`](./ncsc-nl/md/www.ncsc.nl_cyberbeveiligingswet-nis2_flowchart-registratieplicht-nis2-entiteit.md) → Cbw scope (art. 2–5) |
 | **Security architect** mapping controls to obligations | [`enisa-guidance/md/ENISA_Technical_Implementation_Guidance_v1.0.md`](./enisa-guidance/md/ENISA_Technical_Implementation_Guidance_v1.0.md) + [`eu-implementing-regulation/md/cir-2024-2690-NL.md`](./eu-implementing-regulation/md/cir-2024-2690-NL.md) |
 | **Lawyer / policy analyst** | [`nis2-directive-nl.md`](./nis2-directive-nl.md) → [`nl-wetsvoorstel/md/cbw-2025D26060.md`](./nl-wetsvoorstel/md/cbw-2025D26060.md) → [`nl-amvb-consultatie/md/ontwerp-cyberbeveiligingsbesluit.md`](./nl-amvb-consultatie/md/ontwerp-cyberbeveiligingsbesluit.md) |
 | **LLM pipeline / RAG ingestion** | Feed all `**/md/*.md` plus root `*.md`. Use [`INDEX.md`](./INDEX.md) for curated reading order, [`INVENTORY.md`](./INVENTORY.md) for the raw archive listing. |
@@ -41,7 +41,7 @@ Full curated reading order with file paths: [`INDEX.md`](./INDEX.md).
 | `nl-amvb-consultatie-wwke/` | Besluit Wwke consultation set |
 | `ncsc-nl/` | NCSC.nl + Digital Trust Center guidance snapshots |
 | `eu-cooperation-group/` | EU Commission policy hub, FAQ, transposition tracker |
-| `md/` | Markdown of NL government PDFs (Doorverwijsboom, flyer, brochure) |
+| `nl-overheid-publicaties/` | Standalone NL government publications: Doorverwijsboom (decision tree), Flyer, Informatiebrochure (PDF + MD) |
 | `templates/` | Compliance work artifacts (CSV/XLSX) — see [`templates/README.md`](./templates/README.md) |
 
 ### Why two `nis2-directive-nl.*` files at root?

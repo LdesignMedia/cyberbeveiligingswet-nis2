@@ -97,13 +97,15 @@ Entity-side practical guidance.
 | `ncsc-nl/md/www.ncsc.nl_over-ncsc_wettelijke-taak_wat-gaat-de-nis2-richtlijn-betekenen-voor-uw-organisatie_samenvatting-nis2-richtlijn.md` | NIS2 samenvatting |
 | `ncsc-nl/md/www.digitaltrustcenter.nl_wat-is-de-nis2-richtlijn.md` | DTC NIS2 explainer |
 
-### NL Government PDFs (root)
+### NL Government Publications
+
+Standalone NL government brochures and decision aids (not Tweede Kamer kamerstukken).
 
 | File | Description |
 |------|-------------|
-| `md/Doorverwijsboom Cyberbeveiligingswet.md` | Decision tree — does Cbw apply? |
-| `md/Flyer Cyberbeveiligingswet.md` | Flyer |
-| `md/Informatiebrochure Cyberbeveiligingswet.md` | Info brochure |
+| `nl-overheid-publicaties/md/doorverwijsboom-cyberbeveiligingswet.md` | Decision tree — does Cbw apply? |
+| `nl-overheid-publicaties/md/flyer-cyberbeveiligingswet.md` | Flyer |
+| `nl-overheid-publicaties/md/informatiebrochure-cyberbeveiligingswet.md` | Info brochure |
 
 ## 7. EU Commission Pages
 

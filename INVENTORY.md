@@ -8,9 +8,16 @@ Local archive of NIS2 directive + Dutch Cyberbeveiligingswet (Cbw) implementatio
 |------|-------------|
 | `nis2-directive-nl.md` | Cleaned markdown of NIS2 Directive (EU) 2022/2555 — Dutch |
 | `nis2-directive-nl.html` | Original EUR-Lex HTML source |
-| `Doorverwijsboom Cyberbeveiligingswet.pdf` | NL government decision tree — does Cbw apply? |
-| `Flyer Cyberbeveiligingswet.pdf` | NL government flyer Cbw |
-| `Informatiebrochure Cyberbeveiligingswet.pdf` | NL government info brochure Cbw |
+
+## nl-overheid-publicaties/
+
+Standalone NL government brochures and decision aids (not Tweede Kamer kamerstukken).
+
+| File | Description |
+|------|-------------|
+| `doorverwijsboom-cyberbeveiligingswet.pdf` | NL government decision tree — does Cbw apply? |
+| `flyer-cyberbeveiligingswet.pdf` | NL government flyer Cbw |
+| `informatiebrochure-cyberbeveiligingswet.pdf` | NL government info brochure Cbw |
 
 ## eu-directives/
 

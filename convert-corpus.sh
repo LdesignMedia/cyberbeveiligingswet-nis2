@@ -63,7 +63,7 @@ sys.stdout.write(t)
 " > "$dst"
 }
 
-for dir in eu-directives eu-implementing-regulation enisa-guidance nl-wetsvoorstel nl-amvb-consultatie nl-amvb-consultatie-wwke ncsc-nl eu-cooperation-group; do
+for dir in eu-directives eu-implementing-regulation enisa-guidance nl-wetsvoorstel nl-amvb-consultatie nl-amvb-consultatie-wwke ncsc-nl eu-cooperation-group nl-overheid-publicaties; do
   [ -d "$dir" ] || continue
   mkdir -p "$dir/md"
   echo "=== $dir ==="
@@ -81,13 +81,12 @@ for dir in eu-directives eu-implementing-regulation enisa-guidance nl-wetsvoorst
   done
 done
 
-# Root-level PDFs
-mkdir -p md
-for f in *.pdf; do
+# Root-level standalone files (e.g. nis2-directive-nl.html)
+for f in *.html; do
   [ -f "$f" ] || continue
-  out="md/$(basename "$f" .pdf).md"
-  echo "root pdf -> $out"
-  convert_pdf "$f" "$out"
+  out="$(basename "$f" .html).md"
+  echo "root html -> $out"
+  convert_html "$f" "$out"
 done
 
 echo "DONE"
