@@ -1,6 +1,11 @@
 #!/bin/bash
 # Convert all PDF/HTML in corpus to clean markdown.
 # Output: <subdir>/md/<basename>.md alongside originals.
+#
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 LdesignMedia
+# See LICENSE for details. This script is MIT-licensed; the rest of the
+# repository follows the license schedule documented in LICENSE.
 set -e
 ROOT="/Users/luukverhoeven/TOOLS/cyberbeveiligingswet-nis2"
 cd "$ROOT"
