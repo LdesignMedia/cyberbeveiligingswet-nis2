@@ -15,8 +15,17 @@ NIS2 / Cbw applies across ~18 sectors but the operational reality differs sharpl
 | [`SECTOR-food.md`](./SECTOR-food.md) | Important | NVWA + LNV + RDI | HACCP, EU 178/2002, Warenwet/RASFF, GFSI (BRCGS/IFS/FSSC 22000) |
 | [`SECTOR-chemicals.md`](./SECTOR-chemicals.md) | Important | NVWA + ILT-chemie + Brzo+ | Seveso III/Brzo 2015, REACH, CLP, CSDDD, IEC 61511/62443 |
 | [`SECTOR-postal-courier.md`](./SECTOR-postal-courier.md) | Important | ACM + RDI | Postwet 2009, GDPR, EU Customs UCC, DAC7 |
+| [`SECTOR-waste.md`](./SECTOR-waste.md) | Important | ILT-handhaving + omgevingsdiensten + RDI | Wm, LAP3, EVOA, Brzo+ |
+| [`SECTOR-research.md`](./SECTOR-research.md) | Important | RDI + OCW + SURFcert | GDPR (research carve-outs), EU 2021/821 dual-use, Horizon Europe, kennisveiligheid |
+| [`SECTOR-ict-b2b-service-management.md`](./SECTOR-ict-b2b-service-management.md) | Essential | RDI | **CIR 2024/2690** (binding), customer SLA/MSA, ISO 27001, SOC 2 |
+| [`SECTOR-space.md`](./SECTOR-space.md) | Essential | RDI + Agentschap Telecom + ESA security | Wet ruimtevaartactiviteiten, ITU, EU Space Reg 2021/696, dual-use, ITAR |
 
-Other NIS2 sectors (wastewater detail, waste management, research, ICT B2B service management, space, public e-comms specifics) are not yet covered. Contributions welcome — see [`../CONTRIBUTING.md`](../CONTRIBUTING.md).
+Coverage of NIS2 Annex I + II sectors is now complete. Edge cases not split into separate guides:
+- **Public electronic communications networks/services** — typically handled within digital infrastructure ([`SECTOR-digital-infrastructure.md`](./SECTOR-digital-infrastructure.md)).
+- **Wastewater** — folded into [`SECTOR-water.md`](./SECTOR-water.md).
+- Sub-sectors with NL-specific transposition decisions (university designation, gemeente waste collection) are flagged in the relevant guide.
+
+Contributions welcome for sub-sector deep-dives — see [`../CONTRIBUTING.md`](../CONTRIBUTING.md).
 
 ## Reading order
 
