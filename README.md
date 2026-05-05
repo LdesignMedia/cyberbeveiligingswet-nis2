@@ -63,6 +63,7 @@ Expected NL entry into force: ~Q2 2026 (~July 1).
 | **LLM pipeline / RAG ingestion** | Feed all `**/md/*.md` plus root `*.md`. Use [`INDEX.md`](./INDEX.md) for curated reading order, [`INVENTORY.md`](./INVENTORY.md) for the raw archive listing. |
 | **SME owner / director** asking "is this even my problem?" | [`QUICKSTART-SME.md`](./QUICKSTART-SME.md) — 10-minute scope check + 90-day starter path |
 | **Board / management body** preparing for governance + training duty | [`EXECUTIVE-SUMMARY.md`](./EXECUTIVE-SUMMARY.md) — 5-minute brief satisfying NIS2 art. 20 awareness floor |
+| **Sector-specific reader** (digital infra / healthcare / energy / manufacturing / public admin) | [`sectors/`](./sectors/) — per-sector guides covering scope, NL authority, adjacent regimes, top risks, quick wins |
 | **Practitioner building a compliance program** | [`templates/`](./templates/) — CSV/XLSX for asset inventory, incident register, risk register, NIS2 measures tracker, sub-processor register, access review |
 | **Trainer / educator** | [`NIS2-light-micro-LMS.md`](./NIS2-light-micro-LMS.md) — light micro-LMS outline |
 | **Anyone hitting an unfamiliar term** | [`GLOSSARY.md`](./GLOSSARY.md) — NL/EN definitions for NIS2, Cbw, Wwke, CER, DORA, eIDAS jargon |
